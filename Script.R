@@ -1,7 +1,7 @@
 #######################################################
 # Thématique : Analyse des données de l'enquête sur "Lycéens et la pratique sportive"
 # SAE 1 - Mise en oeuvre d'une enquête (Les lycéens et la pratique sportive)
-# Auteur : Groupe 02 BONDON - DEMBELE - GBAYE - JOUVENCEL - OTCHOFFA
+# Auteur : Groupe 02 BONDON Evan - DEMBELE Salimata - GBAYE Boukola - JOUVENCEL Paolo - OTCHOFFA Karline
 # Source : Enquête sur le lycée Paul-Cornu de Lisieux
 ######################################################
 
@@ -53,7 +53,7 @@ str(data)
 summary(data)
 
 ##########################################################################
-# Pourcentage d'homme et de femme interrogés
+# Pourcentage d'hommes et de femmes interrogés
 ##########################################################################
 
 table1 = round(100*prop.table(table(data$Sexe)),2)
@@ -71,7 +71,7 @@ text(graph1,
      labels = paste0(table1,"%"))
 
 ##########################################################################
-#Pourcentage de chaque classe interrogé
+#Répartition des interrogés par classe
 ##########################################################################
 
 table2 = round(100*prop.table(table(data$Niveau)),2)
