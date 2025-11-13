@@ -1,0 +1,101 @@
+ID;Sexe;Niveau;Filiere;Sport_trimestre;Precisez1;Etat;Sport_lycee;Ajout_ sport;Sport_etude;Sport_dehors;Foot;Basket;Volley;Boxe;Tennis_de_table;Autre1;Precisez2;Pourquoi;Lycee;Club;Chez_soi;Salle_sport;Exterieur;Interieur;Autre2;Precisez3;Nbre_heure;Competition
+1;1;2;1;3;NA;2;5;Boxe;0;1;0;0;0;1;0;0;NA;Vide la tête;1;1;0;0;0;0;0;NA;4;1
+2;1;2;2;3;NA;2;5;MMA;0;1;0;0;0;0;0;1;MMA;Progresser;1;1;0;0;0;1;0;NA;6;1
+3;0;3;5;3;NA;3;7;Foot;0;1;1;0;0;0;0;0;NA;Aime bien;1;1;0;0;0;0;0;NA;3;1
+4;1;3;1;4;NA;2;5;Escalade;0;1;0;0;0;0;0;1;Escalade;Vider la tete;1;1;0;0;0;1;0;NA;3;0
+5;0;1;2;7;Frisbee;3;6;Volley-ball;0;0;0;0;0;0;0;0;NA;Intenat;1;0;0;0;0;0;0;NA;1;0
+6;1;2;5;4;NA;3;0;NA;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;1;0
+7;0;2;4;3;NA;3;4;Yoga;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;1;0
+8;0;2;2;3;NA;3;5;Danse;0;0;0;0;0;0;0;0;NA;Pas le temps;1;0;0;0;0;0;0;NA;1;1
+9;0;1;3;7;Course d'orientation;3;6;Musculation;0;1;0;0;0;0;0;1;Musculation;Physique;1;0;0;1;0;0;0;NA;2;0
+10;1;3;6;6;NA;3;3;NA;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;1;0
+11;1;2;3;3;NA;3;7;Foot;0;1;1;0;0;0;0;0;NA;Aime bien;1;1;0;0;0;0;0;NA;4;1
+12;1;3;1;3;NA;3;8;Tennis;1;1;1;0;0;0;0;1;Tennis;Aime bien;1;1;0;0;1;1;0;NA;7;1
+13;0;1;4;6;NA;3;5;VTT;0;1;0;0;0;0;0;1;VTT;Obligé;1;0;0;0;1;0;0;NA;2;1
+14;1;3;5;7;Course d'orientation;3;9;NA;0;1;0;0;0;0;0;1;Badminton;Vider la tete;1;1;0;0;0;0;0;NA;5;1
+15;0;3;1;4;NA;2;7;Foot;0;1;1;0;0;0;0;0;NA;Aime bien;1;1;0;0;0;0;0;NA;3;1
+16;0;1;3;5;NA;2;4;NA;0;1;0;0;0;0;0;1;Course;Physique;1;0;0;0;1;0;0;NA;2;1
+17;1;1;5;6;NA;2;6;Musculation;0;1;0;0;0;1;0;0;NA;Détente;1;1;0;0;0;0;0;NA;2;1
+18;1;2;6;3;NA;3;6;Musculation;0;1;0;0;0;0;0;1;Musculation;Progresser;1;0;0;1;0;0;0;NA;5;1
+19;0;3;5;3;NA;2;0;NA;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;1;0
+20;1;1;6;6;NA;3;6;Foot;0;1;1;0;0;0;0;0;NA;Compétiteur;1;1;0;0;0;0;0;NA;6;1
+21;0;3;5;3;NA;3;7;Foot;0;1;1;0;0;0;0;0;NA;Aime bien;1;1;0;0;0;0;0;NA;3;0
+22;1;1;3;5;NA;2;7;Foot;0;1;1;0;0;0;0;0;NA;Aime bien;1;1;0;0;1;0;0;NA;2;0
+23;0;3;6;3;NA;3;9;Escalade;0;1;0;0;0;0;0;1;Escalade;Aime bien;1;1;0;0;0;1;0;NA;3;0
+24;1;1;3;7;Ping-pong;2;6;NA;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;1;0
+25;1;2;1;5;NA;2;0;Foot;0;1;1;0;0;0;0;0;NA;Aime bien;1;1;0;0;1;0;0;NA;2;0
+26;0;3;4;4;NA;3;2;Danse;0;1;0;0;0;0;0;1;Danse;Déteste;1;1;0;0;0;1;0;NA;2;0
+27;1;2;6;6;NA;2;3;Basket;0;0;0;0;0;0;0;0;NA;Flemme;1;0;0;0;0;0;0;NA;1;0
+28;1;1;2;5;NA;2;4;Tennis;0;1;0;0;0;0;0;1;Tennis;Aime bien;1;1;0;0;1;0;0;NA;3;0
+29;1;2;4;7;Frisbee;3;4;Foot;1;1;1;0;0;0;0;0;NA;Aime bien;1;1;0;0;0;1;0;NA;5;1
+30;0;3;2;5;NA;3;4;Natation;0;1;0;0;0;0;0;1;Natation;Détente;1;1;0;0;0;1;0;NA;2;0
+31;0;1;1;5;NA;2;1;Foot;0;1;1;0;0;0;0;0;NA;Aime bien;1;1;0;0;0;1;0;NA;2;0
+32;1;1;5;4;NA;3;4;Volley-ball;0;0;0;0;0;0;0;0;NA;Internat;1;0;0;0;0;0;0;NA;1;0
+33;1;1;4;4;NA;3;7;Boxe;0;1;0;0;0;1;0;0;NA;Détente;1;1;0;0;0;1;0;NA;3;0
+34;0;2;7;5;NA;3;8;Basket;1;1;0;1;0;0;0;0;NA;Aime bien;1;1;0;0;1;1;0;NA;3;0
+35;1;3;3;5;NA;3;8;Foot;0;1;1;0;0;0;0;0;NA;Dépenser;1;0;1;0;1;0;0;NA;3;0
+36;1;1;1;5;NA;2;4;Foot;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;1;0
+37;0;3;2;4;NA;3;5;Basket;0;1;0;0;1;0;0;0;NA;Aime bien;1;1;0;0;0;1;0;NA;4;0
+38;0;2;2;3;NA;2;7;NA;0;0;0;0;0;0;0;0;NA; Pas le temps;1;0;0;0;0;0;0;NA;1;0
+39;1;2;3;3;NA;2;1;NA;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;1;0
+40;0;2;7;5;NA;3;5;Basket;1;0;0;0;0;0;0;0;NA;Internat;1;0;1;0;0;0;0;NA;3;0
+41;0;1;5;6;NA;2;8;Escalade;0;1;0;0;0;0;0;1;Escalade;Passion;1;1;0;0;0;1;0;NA;3;0
+42;0;3;2;4;NA;2;0;NA;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;1;0
+43;1;2;6;5;NA;3;6;Foot;0;1;0;0;0;0;0;1;Badminton;Dépenser;1;1;0;0;0;1;0;NA;2;0
+44;1;1;3;5;NA;3;7;Escalade;0;1;0;0;0;0;1;0;NA;Aime bien;1;1;0;0;0;1;0;NA;3;1
+45;1;3;2;5;NA;3;6;Hip-hop;0;1;0;0;0;0;0;1;Hip-hop;Aime bien;1;1;1;0;0;1;0;NA;3;0
+46;0;3;1;7;Ping-pong;2;4;Foot;0;1;1;0;0;0;0;0;NA;Détente;1;1;0;0;0;1;0;NA;2;0
+47;1;1;6;7;Ping-pong;4;8;Basket;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;1;0
+48;0;1;4;7;Ping-pong;2;7;Basket;0;1;0;1;0;0;0;0;NA;Aime bien;1;1;0;0;1;1;0;NA;5;1
+49;0;3;2;7;Course d'orientation;2;3;NA;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;1;0
+50;1;3;1;7;Musculation;3;5;Golf;1;0;0;0;0;0;0;0;NA;Pas d'argent;1;0;0;0;0;0;0;NA;1;0
+51;0;1;5;7;Musculation;3;8;Foot;1;1;1;0;0;0;0;0;NA;Aime bien;1;1;1;0;1;0;0;NA;6;1
+52;1;2;3;4;NA;3;9;Vélo;1;1;0;0;0;0;0;1;Vélo;Détente;1;1;0;0;1;0;0;NA;4;1
+53;0;1;6;7;Musculation;3;7;Gymnastique;0;1;0;0;0;0;0;1;Motocross;Liberté;1;1;0;0;0;0;0;NA;4;1
+54;0;1;7;7;Musculation, Danse;4;7;Gymnastique;0;0;0;0;0;0;0;0;NA;Dispense maladie;0;0;0;0;0;0;0;NA;0;0
+55;1;1;7;5;NA;3;7;Basket;1;1;0;1;0;0;0;0;NA;Passion;1;1;0;0;0;0;0;NA;6;1
+56;1;2;7;5;NA;3;6;Boxe;0;1;0;0;0;0;0;1;Musculation;Aime bien;1;0;0;1;0;0;0;NA;7;1
+57;1;2;7;7;Ping-pong;3;8;Rugby;0;1;0;0;0;0;0;1;Rugby;Passion;1;1;0;0;0;0;0;NA;3;0
+58;1;1;7;7;Musculation ;4;7;NA;0;1;0;1;0;0;0;0;NA;Aime bien;1;1;0;0;0;0;0;NA;3;0
+59;0;3;7;5;NA;3;5;NA;0;0;0;0;0;0;0;0;NA;Dispense maladie;0;0;0;0;0;0;0;NA;1;0
+60;0;3;7;4;NA;3;6;Gymnastique;1;0;0;0;0;0;0;0;NA; Pas le temps, Concentration;1;0;0;0;0;0;0;NA;3;1
+61;1;1;7;7;Vélo;3;2;Motocross;0;1;0;0;0;0;0;1;Motocross;Aime bien, Création de liens;1;0;0;0;1;0;0;NA;7;1
+62;1;1;7;7;Ping-pong;3;6;Basket, Badminton;0;1;0;0;0;0;0;1;Badminton;Aime bien;1;1;0;0;0;0;0;NA;7;1
+63;0;3;7;4;NA;3;8;Danse;0;1;0;0;0;0;0;1;Musculation, souplesse;Rester en forme, Aime bien, Progresser;1;0;0;1;0;0;0;NA;4;0
+64;1;2;7;7;Ping-pong;3;5;NA;0;0;0;0;0;0;0;0;NA;Alternance, Pas le temps;1;0;0;0;0;0;0;NA;4;0
+65;0;2;7;7;Musculation;2;7;Boxe;0;1;0;0;0;0;0;1;Danse;Aime bien;1;1;0;0;0;0;0;NA;2;1
+66;1;3;7;7;Course d'orientation;1;9;Foot;0;1;1;0;0;0;0;0;NA;Aime bien, Sensations;1;0;0;0;1;0;0;NA;2;0
+67;0;1;5;7;Danse;3;5;Escalade;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;2;0
+68;0;2;7;7;Musculation;3;6;Basket;0;1;0;0;0;0;0;1;Patinage artistique;Aime bien, Sensations;1;1;0;0;0;0;0;NA;2;1
+69;1;3;7;7;Course d'orientation;3;7;Foot;0;0;0;0;0;0;0;0;NA;Pas le temps;1;0;0;0;0;0;0;NA;2;1
+70;1;1;7;5;NA;3;8;Foot;0;1;1;1;0;0;0;0;NA;Aime bien;1;1;0;0;0;0;0;NA;4;0
+71;1;2;7;5;NA;3;7;Boxe;0;1;0;0;0;1;0;1;Judo;Aime bien;1;1;0;0;0;0;0;NA;2;0
+72;1;1;6;1;NA;4;8;NA;1;0;0;0;0;0;0;0;NA;Pas envie;1;0;0;0;0;0;0;NA;2;0
+73;1;1;7;7;Ping-pong;3;5;Foot;1;1;1;0;0;0;0;0;NA;Aime bien, Habitude familiale;1;1;0;0;0;0;0;NA;7;1
+74;1;2;7;4;NA;3;9;Boxe;0;1;0;0;0;0;0;1;Course,Musculation;Aime bien, Physique;1;0;0;1;0;0;0;NA;3;1
+75;1;1;6;6;NA;3;5;Foot;1;0;0;0;0;0;0;0;NA;Flemme;1;0;0;0;0;0;0;NA;2;1
+76;1;1;7;7;NA;4;6;Motocross;0;0;0;0;0;0;0;0;NA;Dispense maladie;0;0;0;0;0;0;0;NA;1;1
+77;1;1;7;7;Ping-pong;3;7;Foot;1;1;1;0;0;0;0;0;NA;Aime bien;1;1;0;0;0;0;0;NA;3;1
+78;0;3;7;4;NA;3;7;Baseball;0;1;0;0;0;0;0;1;Krav-maga;Aime bien, Défense;1;1;0;0;0;0;0;NA;2;1
+79;1;3;7;5;NA;1;5;Foot;0;1;0;0;0;0;0;1;Course à pied;Détente;1;0;1;0;0;0;0;NA;7;1
+80;0;2;7;5;NA;3;2;Equitation;0;0;0;0;0;0;0;0;NA;Déteste;0;0;0;0;0;0;0;NA;1;1
+81;1;3;7;7;NA;3;5;NA;0;0;0;0;0;0;0;0;NA; Pas le temps;0;0;0;0;0;0;0;NA;1;0
+82;1;3;7;1;NA;3;7;Foot;1;1;1;0;0;0;0;0;NA;Aime bien;1;1;0;0;0;0;0;NA;7;1
+83;0;3;7;7;Course d'orientation;3;5;Twirling baton;1;1;0;0;0;0;0;1;Twirling baton;Aime bien;1;1;0;0;0;0;0;NA;5;1
+84;0;3;7;2;NA;4;10;Gymnastique;0;1;0;1;0;0;0;0;NA;Aime bien;1;1;0;0;0;0;0;NA;3;0
+85;1;3;7;7;Foot;2;9;Foot;1;1;1;0;0;0;0;0;NA;Aime bien;1;1;0;0;0;0;0;NA;7;1
+86;0;1;7;7;Frisbee;3;8;NA;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;1;1
+87;1;1;7;7;Frisbee;3;8;Catch;0;0;0;0;0;0;0;0;NA;Dispense maladie;0;0;0;0;0;0;0;NA;1;1
+88;0;1;7;7;NA;3;7;Equitation;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;1;0
+89;1;1;7;7;Musculation;3;7;Foot;1;1;0;0;0;0;0;1;Musculation;Aime bien;1;1;0;0;0;0;0;NA;2;0
+90;1;3;7;3;NA;3;8;Boxe;0;0;0;0;0;0;0;0;NA;Pas le temps;1;0;0;0;0;0;0;NA;1;1
+91;1;2;7;4;NA;3;8;NA;0;0;0;0;0;0;0;0;NA;Pas le temps;1;0;0;0;0;0;0;NA;1;0
+92;0;3;7;7;NA;3;9;NA;0;0;0;0;0;0;0;0;NA;Dispense maladie;0;0;0;0;0;0;0;NA;1;1
+93;1;2;7;6;NA;3;8;Natation;0;0;0;0;0;0;0;0;NA;Pas le temps;1;0;0;0;0;0;0;NA;1;1
+94;0;1;7;7;Frisbee;3;7;NA;0;0;0;0;0;0;0;0;NA;Déteste;1;0;0;0;0;0;0;NA;1;0
+95;1;1;7;7;Frisbee;3;7;NA;0;0;0;0;0;0;0;0;NA;Flemme;1;0;0;0;0;0;0;NA;1;0
+96;0;1;7;7;Frisbee;3;7;Gymnastique;0;1;0;0;0;0;0;1;Danse;Aime bien;1;0;0;0;0;0;1;Association ;2;0
+97;1;1;7;7;Musculation;3;7;Foot;1;1;1;0;0;0;0;1;Musculation;Aime bien;1;1;0;0;0;0;0;NA;3;1
+98;1;3;2;5;NA;3;8;Foot;0;1;0;0;0;0;0;1;Musculation; Physique, Mental;1;0;1;0;0;0;0;NA;6;0
+99;1;2;7;5;NA;3;8;NA;0;0;0;0;0;0;0;0;NA;Pas le temps;1;0;0;0;0;0;0;NA;1;0
+100;1;3;7;7;Musculation;3;7;Equitation;0;1;0;1;0;0;1;0;NA;Aime bien;1;1;0;0;0;0;0;NA;7;1
